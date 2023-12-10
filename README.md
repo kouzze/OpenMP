@@ -91,6 +91,11 @@ make install
 OPENCV = pkg-config opencv4 --cflags --libs
 ```
 
+## Consideraciones a tomar
+```bash
+Los archivos .txt tienen que ir en la raíz del proyecto (promedio.txt, alpha.txt, azul.txt, rojo.txt y verde.txt)
+```
+
 ## Autor
 
 - Nicolas Jara Carvajal 
